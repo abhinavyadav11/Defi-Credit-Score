@@ -17,13 +17,13 @@ Wallets were grouped into score buckets from 0 to 1000. The distribution is as f
 
 ## Observations
 
--  **Low Scoring Wallets**:
+-  ## Low Scoring Wallets**:
   - Tend to make only 1–2 transactions.
   - No repayment activity.
   - Appear inactive or bot-like.
   - Often exhibit only borrow or redeem activity.
 
--  **High Scoring Wallets**:
+-  ## High Scoring Wallets**:
   - High frequency and consistency of transactions.
   - Strong repay-to-borrow ratios.
   - Fewer or no liquidation events.
