@@ -72,5 +72,3 @@ print(bucket_counts)
 ```
 
 ---
-
-For questions or improvements, please open an issue or submit a pull request.
